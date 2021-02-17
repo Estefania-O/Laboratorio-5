@@ -10,6 +10,11 @@ Objetivo General
 
 Objetivos Específicos 
 
+•	Comprobar de forma practica el teorema de Thevenin
+
+•	Realizar un circuito equivalente para el ejemplo dado, poniendo en practica lo aprendido anteriormente y sobretodo generando nuevos conocimientos 
+
+•	Identificar todos los elementos usados y determinar de qué forma podrían afectar a nuestro laboratorio.
 
 
 **2. MARCO TEÓRICO**
