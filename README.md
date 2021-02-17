@@ -43,6 +43,8 @@ Objetivos Específicos
 
 **8. BIBLIOGRAFÍAS**
 
+Teoremas de Thevenin y Norton. (s. f.). SCRIB. Recuperado 17 de febrero de 2021, de https://es.scribd.com/document/430692675/Laboratorio-6-Thevenin-1
 
+TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS. (s. f.). TEOREMA. Recuperado 17 de febrero de 2021, de https://www.teorema.top/teorema-de-thevenin/
 
 **9. ANEXOS**
