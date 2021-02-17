@@ -1,3 +1,33 @@
 # Laboratorio-5
 
 TEOREMA DE THÉVENIN
+
+**1. OBJETIVOS**
+
+
+
+**2. MARCO TEÓRICO**
+
+
+
+**3. DIAGRAMAS**
+
+
+
+**4. LISTA DE COMPONENTES**
+
+
+
+**5. EXPLICACIÓN**
+
+
+
+**7. CONCLUSIONES**
+
+
+
+**8. BIBLIOGRAFÍAS**
+
+
+
+**9. ANEXOS**
