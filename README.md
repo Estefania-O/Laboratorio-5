@@ -58,3 +58,5 @@ Teoremas de Thevenin y Norton. (s. f.). SCRIB. Recuperado 17 de febrero de 2021,
 TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS. (s. f.). TEOREMA. Recuperado 17 de febrero de 2021, de https://www.teorema.top/teorema-de-thevenin/
 
 **9. ANEXOS**
+
+Los anexos se encuentran en el siguiente link: https://github.com/Estefania-O/Laboratorio-5/blob/main/Anexos/Calculos_Guia5.pdf
