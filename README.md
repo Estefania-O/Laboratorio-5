@@ -23,7 +23,20 @@ Objetivos Específicos
 
 **3. DIAGRAMAS**
 
+Circuito para comprobar el Teorema de Thévenin.
+![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Circuito_practica.png)
 
+Circuito armado con la ayuda de tinkercad muestra la medicion del voltaje y corriente en R5
+![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Circuito_original.png)
+
+Medición del Voltaje de Thévenin
+![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Circuito_VTH.png)
+
+Medición de la Resistencia de Thévenin
+![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Circuito_RTH.png)
+
+Circuito equivalente de Thévenin
+![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Circuito_Th%C3%A9venin.png)
 
 **4. LISTA DE COMPONENTES**
 
