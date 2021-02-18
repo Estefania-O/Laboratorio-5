@@ -56,7 +56,7 @@ Circuito equivalente de Thévenin
 
 
 
-**7. CONCLUSIONES**
+**6. CONCLUSIONES**
 
 •	El circuito obtenido tras aplicar el teorema de Thévenin es mucho más sencillo y rápido para calcular el voltaje y la corriente cuando la carga está conectada, o la potencia que se puede transferir al circuito.
 
@@ -64,12 +64,12 @@ Circuito equivalente de Thévenin
 
 •	Nos permite encontrar circuitos equivalentes en circuitos complejos de una forma sencilla y rápida.
 
-**8. BIBLIOGRAFÍAS**
+**7. BIBLIOGRAFÍAS**
 
 Teoremas de Thevenin y Norton. (s. f.). SCRIB. Recuperado 17 de febrero de 2021, de https://es.scribd.com/document/430692675/Laboratorio-6-Thevenin-1
 
 TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS. (s. f.). TEOREMA. Recuperado 17 de febrero de 2021, de https://www.teorema.top/teorema-de-thevenin/
 
-**9. ANEXOS**
+**8. ANEXOS**
 
 Los anexos se encuentran en el siguiente link: https://github.com/Estefania-O/Laboratorio-5/blob/main/Anexos/Calculos_Guia5.pdf
