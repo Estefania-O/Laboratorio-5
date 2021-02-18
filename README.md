@@ -55,9 +55,11 @@ Circuito equivalente de Thévenin
 **5. EXPLICACIÓN**
 
 **TABLA I.** Valores del Circuito Equivalente de Thévenin
+
 ![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Tabla1_Guia5.png)
 
 **TABLA II.** Comprobación del Teorema de Thévenin.
+
 ![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Tabla2_Guia5.png)
 
 **6. CONCLUSIONES**
