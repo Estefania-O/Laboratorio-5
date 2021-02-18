@@ -1,6 +1,6 @@
-# Laboratorio-5
+# Laboratorio 5
 
-TEOREMA DE THÉVENIN
+## TEOREMA DE THÉVENIN
 
 **1. OBJETIVOS**
 
@@ -19,7 +19,7 @@ Objetivos Específicos
 
 **2. MARCO TEÓRICO**
 
-
+![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Mapa_Teorema_Thevenin.png)
 
 **3. DIAGRAMAS**
 
