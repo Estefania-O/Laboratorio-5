@@ -27,7 +27,17 @@ Objetivos Específicos
 
 **4. LISTA DE COMPONENTES**
 
-
+|**CANTIDAD**|**ELEMENTO**|
+|:---:|:---:|
+|2|Fuente de Voltaje de C.D.|
+|2|Multímetros Digitales|
+|1|Resistor de 560 Ω|
+|1|Resistor de 4.7 kΩ|
+|1|Resistor de 330 Ω|
+|1|Resistor de 100 Ω|
+|1|Resistor de 1 kΩ|
+|1|Potenciómetro de precisión de 1 kΩ|
+|1|Protoboard|
 
 **5. EXPLICACIÓN**
 
