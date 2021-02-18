@@ -54,7 +54,7 @@ Circuito equivalente de Thévenin
 
 **5. EXPLICACIÓN**
 
-Mediante el simulador tinkercad se implementaron los diferentes circuitos y se procedio hacer las diferentes mediciones que se pide en la guía, con su respectivo análisis matemático se procedio a realizar las siguientes tablas:
+Mediante el simulador tinkercad se implementaron los diferentes circuitos y se procedio hacer las diferentes mediciones que se pide en la guía 5, con su respectivo análisis matemático se procedio a realizar las siguientes tablas:
 
 **TABLA I.** Valores del Circuito Equivalente de Thévenin
 
