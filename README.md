@@ -54,13 +54,21 @@ Circuito equivalente de Thévenin
 
 **5. EXPLICACIÓN**
 
+Mediante el simulador tinkercad se implemento el circuito y se procedio hacer las diferentes mediciones que se pide en la guía, con su respectivo análisis matemático se procedio a realizar las siguientes tablas:
+
 **TABLA I.** Valores del Circuito Equivalente de Thévenin
 
 ![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Tabla1_Guia5.png)
 
+Donde el porcentaje de error de VTH Y RTH nos dio como resultado 0% y 0.05% respectivamente.
+
 **TABLA II.** Comprobación del Teorema de Thévenin.
 
 ![.](https://github.com/Estefania-O/Laboratorio-5/blob/main/img/Tabla2_Guia5.png)
+
+Donde el porcentaje de error de VR5 e IR5 del circuito original fueron del 0%, y para el VR5 e IR5 del circutito equivalente de Thévenin fueron del -1.03%.
+
+Con los porcentajes arrojados y observando que los valores entre ambos circuitos no tienen una gran diferencia podemos decir que el Teorema de Thévenin se cumple.
 
 **6. CONCLUSIONES**
 
